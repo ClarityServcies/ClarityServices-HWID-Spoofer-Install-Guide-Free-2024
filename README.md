@@ -1,4 +1,5 @@
 **CLARITY SERVCIES HWID SPOOFER**
+*UNBANNED ON COD/APEX/FORTNITE/COD/GTA5/TARKOV/VALORANT - MORE!*
 ---------------------------------------------------------------------------------------------------
 **Comprehensive HWID Protection:**
 
