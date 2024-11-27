@@ -1,32 +1,46 @@
-The HWID Spoofer is a powerful and reliable solution for gamers and professionals who need to bypass hardware bans or protect their system identity. 
-Designed with cutting-edge technology, this spoofer ensures your system stays undetected, providing a seamless experience for bypassing detection systems.
+**CLARITY SERVCIES HWID SPOOFER**
 ---------------------------------------------------------------------------------------------------
-Comprehensive HWID Protection:
+**Comprehensive HWID Protection:**
 
-Fully spoofs your hardware identifiers (HWID), including motherboard, GPU, disk drive, and NIC.
+*Fully spoofs your hardware identifiers (HWID), including motherboard, GPU, disk drive, and NIC.
 Protects against bans from major anti-cheat systems and detection software.
-Customizable Spoofing:
+Customizable Spoofing:*
 
-Generate random, unique identifiers with a single click.
+*Generate random, unique identifiers with a single click.
 Save and load specific HWID profiles for quick switching.
-Easy-to-Use Interface:
+Easy-to-Use Interface:*
 
-Intuitive design ensures quick setup and operation.
+*Intuitive design ensures quick setup and operation.
 One-click spoof and restore options for hassle-free management.
-Anti-Detection Technology:
+Anti-Detection Technology:*
 
-Undetectable by leading anti-cheat programs and system scanners.
+*Undetectable by leading anti-cheat programs and system scanners.
 Frequent updates to bypass new detection methods.
-Compatibility:
+Compatibility:*
 
-Works seamlessly with major platforms, including Windows 10 and 11.
+*Works seamlessly with major platforms, including Windows 10 and 11.
 Supports popular games and software requiring HWID spoofing.
-Advanced Safety Measures:
+Advanced Safety Measures:*
 
-Integrated backup and restore system for original HWID.
-Logs activity for transparency and troubleshooting.
+*Integrated backup and restore system for original HWID.
+Logs activity for transparency and troubleshooting.*
 
-Install Guide included with media fire link, simple injection/install process regardless, just launch and load. 
+**Install Guide included with media fire link, simple injection/install process regardless, just launch and load.** 
+
+***Key Features***
+- *EAC/BAC FULL BIOS SPOOF*
+- *Undetectable by anti-cheat systems*
+- *Supports all games with HWID protection*
+- *Simple and user-friendly interface*
+- *Lifetime updates and support*
+- *Seamless performance with no impact on gameplay*
+- *Complete customization options*
+
+***System Requirements***
+- *Windows 10/11 (64-bit)*
+- *Latest GPU drivers*
+- *Administrator access*
+- *Anti-virus disabled during installation*
 ---------------------------------------------------------------------------------------------------
 
 ![main 1 hwid](https://github.com/user-attachments/assets/7fe1bbb6-acae-4717-ad3d-26d16963ea1d)
